@@ -1,9 +1,9 @@
 {
   "name":"MZAZI-XMD",
-  "description":"Best whatsapp bot created by mr Dominic and his wife Pollie",
-  "keywords"🙁"bot","node","baileys","whatsapp"],
+  "description":"Best whatsapp bot created by mzazi",
+  "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/L4U2K76.jpeg",
-  "repository":"https://github.com/Mrandbad/ANDBAD-MD-V1",
+  "repository":"https://github.com/TeddyDommie/MZAZI-XMD",
   "succes_url":"/",
   "stack":"container",
   "env":{
